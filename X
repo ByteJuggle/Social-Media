@@ -2,3 +2,5 @@ It is a microblogging platform.
 It is a social networking site.
 Its used for breaking news, public discussions and political commentary.
 It recently launches the GROK-AI.
+Here official statement are given.
+You can follow the public figures.
